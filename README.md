@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer</b><br/>
-  I build AI products and web apps that businesses run on. Creator of <a href="https://verahq.ai">Vera</a> — an AI SaaS.
+  I build AI products and web apps that businesses run on. Creator of <a href="https://verahq.ai">Vera</a> 
 </p>
 
 <p align="center">
