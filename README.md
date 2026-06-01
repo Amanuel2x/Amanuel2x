@@ -26,24 +26,9 @@
 
 ### 🛠️ Tech I work with
 
-<table>
-  <tr>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/code-duotone.svg" /><br/><sub>TypeScript</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/brackets-curly-duotone.svg" /><br/><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/atom-duotone.svg" /><br/><sub>React</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/triangle-duotone.svg" /><br/><sub>Next.js</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/wind-duotone.svg" /><br/><sub>Tailwind</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/hexagon-duotone.svg" /><br/><sub>Node.js</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/file-py-duotone.svg" /><br/><sub>Python</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/lightning-duotone.svg" /><br/><sub>FastAPI</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/lightning-a-duotone.svg" /><br/><sub>Vite</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/triangle-dashed-duotone.svg" /><br/><sub>Vercel</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/cloud-duotone.svg" /><br/><sub>Cloudflare</sub></td>
-    <td align="center" width="96"><img height="40" src="https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2/assets/duotone/database-duotone.svg" /><br/><sub>Postgres</sub></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,fastapi,vite,vercel,cloudflare,git,github,docker,postgres,supabase&perline=8" />
+</p>
 
 ---
 
