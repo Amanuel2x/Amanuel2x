@@ -17,10 +17,10 @@
 
 ### 🚀 What I'm building
 
-- 🤖 **[Vera](https://verahq.ai)** — an AI-powered SaaS product. React + Vite frontend, Python/FastAPI backend.
+- 🤖 **[Vera](https://verahq.ai)** — an AI-powered intelligence infrastructure for your business.
 - 🌐 **Production web apps** — Next.js, React, and Tailwind front ends backed by typed APIs.
 - ⚙️ **AI agents & automation** — custom tooling and multi-agent workflows that handle the repetitive work.
-- 📈 **Software for real businesses** — I focus on tools people use daily, not demos.
+- 📈 **Software for real businesses** — I focus on tools people use daily.
 
 ---
 
@@ -35,8 +35,8 @@
 ### 🌱 A bit more
 
 - 🔭 Currently building and scaling **Vera**.
-- ⚡ Big on shipping fast: React, TypeScript, FastAPI, Vercel.
-- 🤝 Open to collaborating on AI tooling, web apps, and SaaS.
+- ⚡ Big on shipping fast!
+- 🤝 Open to collaborating on AI tooling, web apps, and Serious Projects!
 
 ---
 
