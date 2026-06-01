@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Amanuel 👋</h1>
 
 <p align="center">
-  <b>Full-stack engineer building software that businesses actually run on.</b><br/>
-  Web apps, AI products, and the automation that ties them together.
+  <b>Software Engineer</b><br/>
+  I build AI products and web apps that businesses run on. Creator of <a href="https://verahq.ai">Vera</a> — an AI SaaS.
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-stack+engineer;Building+Vera+%E2%80%94+an+AI+SaaS;React+%2B+TypeScript+%2B+FastAPI;Shipping+to+production%2C+fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer;I+build+AI+products+and+web+apps;Creator+of+Vera+%E2%80%94+verahq.ai;TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+FastAPI" alt="Typing SVG" />
 </p>
 
 ---
